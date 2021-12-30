@@ -1,40 +1,68 @@
-AlertOps Expert Guidance
+7 Questions to Consider Before Implementing an Incident Management System
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Effective incident management is critical. In fact, the right incident management system can help your business maintain consistent service levels, reduce its operating costs and improve its customer satisfaction levels. Perhaps best of all, having the ability to stop critical incidents or limit their impact may help your company stay ahead of its rivals.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+If your company already uses an incident management system or plans to deploy one in the near future, here’s something you need to consider: Is your critical incident management good enough? If the answer is “No,” don’t worry – we’re here to help you find an incident management system that makes it simple to identify and address downtime and outages.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Now, let’s take a look at seven questions you need to consider as you evaluate incident management systems.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+1.Is your business negatively impacted within 15 minutes of a critical incident?
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+There is no need to let a minor incident escalate. Yet many alert monitoring systems make it tough for incident management teams to lower mean time to resolution (MTTR), i.e. a service-level metric that helps organizations assess the average amount of time between when an incident is reported and resolved.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+Automated incident management and communication can help your incident management team improve its MTTR. Plus, alert escalation software is available that features both open inbound and outbound application programming interfaces (APIs) that can be connected to incident management and monitoring tools. These APIs can even be configured without coding.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+Also, your incident management system should be able to handle your company’s alerting requirements. And if you use an alert escalation system that offers automated workflows, you can report back to your incident management team at any time.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+2.Does it sometimes take 15 minutes or longer to reach the right people before, during or after a critical incident?
 
-1 Red Canary 2021 Threat Detection Report
+Incident management is a top priority, but it sometimes takes incident management teams 15 minutes or longer to find out about critical incidents. Meanwhile, the longer it takes to identify an incident, the longer it will take to resolve this problem. Worst of all, the longer an incident takes to resolve, the greater the impact it likely will have on a company, its employees and its customers.
 
+An incident management system that offers on-call schedules, role-based assignments and user delivery preferences is vital. This system ensures that your alerts always reach the right people via the right communication methods.
+
+Furthermore, an alert monitoring system that boasts automated escalations guarantees that reminders are delivered based on your service-level agreements (SLAs). This helps ensure your SLAs are always met.
+
+3.Can incident management team members automatically join a conference bridge when notified about a critical incident?
+
+Incident management teams require as much information as possible about downtime, outages and other critical events. Thanks to rich notifications, incident management team members can gain the insights they need to quickly address incidents.
+
+Rich notifications frequently include graphs, images and links related to an incident. They also can include a conference bridge directly in the incident details to help an incident management team streamline its response.
+
+Click-to-conference functionality improves communication and reduces time to resolution. It also ensures each incident management team member knows which bridge to use, so team members won’t have to wait for everyone to join a call.
+
+4.Does your incident management team rely solely on email?
+
+Email is a primary communication method for incident management teams. It drives quick, effective information sharing and enables incident management team members to remain in contact with one another until an incident is resolved.
+
+When it comes to incident management, however, email alone is insufficient. If incident management team members have the ability to communicate with one another via multiple platforms, they may be better equipped than ever before to stay up to date about incidents.
+
+Multi-channel messaging (voice, email, text and mobile push notifications), user delivery preferences and SLA-based message routing policies improve incident management team communication. This multi-tier approach to incident communication empowers incident management team members to remain in constant contact with one another and work together to achieve the best-possible results.
+
+5.Do your business partners need to be notified when a critical incident occurs and when it has been resolved?
+
+Your company relies on its business partners to stay afloat. Much in the same vein, your business partners work with your company to receive the support they need to succeed.
+
+Downtime and outages can push even the strongest business partnerships to the brink. And if your company fails to keep its business partners informed about an incident, it risks alienating them.
+
+Alert escalation and incident management software enables your company to stay in touch with business partners and other key stakeholders throughout an incident. This software offers automated notifications and workflows so you can communicate status updates to your business partners. As a result, the software could help your company bolster its customer satisfaction levels.
+
+6.Do incident management team members always know when someone has responded to a critical incident?
+
+Accountability is a major factor in businesses of all sizes and across all industries. In terms of incident management, all team members are accountable to one another and a company’s stakeholders. Without a system of accountability in place, incident management team members are unlikely to build a culture of trust and collaboration that drives consistent success.
+
+The ideal incident management software provides comprehensive reporting capabilities. This software enables incident management team members to see who responds to an incident and when a team member responded to it. Additionally, the software’s workflows ensure notifications are sent to incident management team members and managers when one team member has taken ownership of an incident and when the incident has been resolved.
+
+7.Do you send incident management requests only to one person?
+
+A primary point of contact may be on call to respond to incident notifications. But what happens if this point of contact is unavailable? If a business is unable to simultaneously send notifications to multiple incident management team members, it may struggle to limit downtime and outages.
+
+An incident management system with smart routing capabilities sends alerts to the right people based on rules, on-call schedules and user roles. And if a primary point of contact does not respond to an alert, the system automatically delivers the notification to other incident management team members. As such, alerts are sent across an incident management team until a team member can respond to an incident.
+
+Ultimately, it helps to consider the aforementioned questions before you invest in an incident management system. If you understand exactly what you need from this system, you can tailor your alert escalation and incident management software search accordingly. Then, you can implement an effective incident management system to address critical alerts.
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/improve-critical-incident-management/
 
 Read more:
 ====
